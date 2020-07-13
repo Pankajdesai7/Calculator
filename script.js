@@ -17,7 +17,7 @@ for(var i=0;i<buttons.length;i++)
 		{ 
 			if(display.textContent == '')
 			{
-				display.innerText='Bhosdike';
+				display.innerText='Error';
 			}
 			else{
                  operator=value;
